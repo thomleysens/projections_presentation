@@ -8,7 +8,7 @@
 
 ## Avant-propos
 
-> ***Avertissement: les prochaines affirmations pourraient s'avérer dangereuses pour l'esprit d'un platiste. Si vous considérez un comportement anormal (*voir ci-dessous*), évoquez les documentaires complotistes sur les missions Apollo dans le but d'éviter un AVC soudain. ;-)*** 
+> ***Avertissement: les prochaines affirmations pourraient s'avérer dangereuses pour l'esprit d'un platiste. Si vous constatez un comportement anormal (*voir ci-dessous*), évoquez les documentaires complotistes sur les missions Apollo dans le but de calmer l'individu et de lui éviter un AVC soudain. ;-)*** 
 
 <figure>
     <img src="https://media.giphy.com/media/82DaAxknIvBovGGPj5/giphy.gif" alt="triggered" width="30%"/>
