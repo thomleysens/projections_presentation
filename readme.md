@@ -67,7 +67,7 @@ Pour reprojeter, tout dépend de vos préférences et compétences ainsi que de 
 ## Pour aller plus loin
 
 * [Page wikipédia sur les systèmes de coordonnées](https://fr.wikipedia.org/wiki/Syst%C3%A8me_de_coordonn%C3%A9es_(cartographie))
-* [Wikipédia sur les coordonées geographiqes](https://fr.wikipedia.org/wiki/Coordonn%C3%A9es_g%C3%A9ographiques)
+* [Wikipédia sur les coordonnées geographiqes](https://fr.wikipedia.org/wiki/Coordonn%C3%A9es_g%C3%A9ographiques)
 * [Wikipedia Projection cartographique](https://fr.wikipedia.org/wiki/Projection_cartographique)
 * [Librairie Python pour les reprojections](https://proj.org/)
 * [Librairie Python pour la gestion d'objets spatiaux basée sur Pandas](http://geopandas.org/)
