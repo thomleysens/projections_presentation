@@ -32,11 +32,11 @@ Un système de projection implique donc une déformation, soit des surfaces, soi
 
 ### La traduction mathématique/géométrique
 
-| Projection | Image | Source |
-|:-----------|:-------------:|:-------:|
-| Cylindrique | <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Projection_cylindrique.jpg" alt="cylindrique" width="40%"/> | [Wikipedia](https://fr.wikipedia.org/wiki/Projection_cartographique) |
-| Conique | <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Projection_conique.jpg" alt="conique" width="40%"/>| [Wikipedia](https://fr.wikipedia.org/wiki/Projection_cartographique) |
-| Azimutale | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Projection_azimutale_stereographique.jpg" alt="azimutale" width="40%"> | [Wikipedia](https://fr.wikipedia.org/wiki/Projection_cartographique) |
+| Projection | Image | Source | Crédit |
+|:-----------|:-----:|:------:|:------:|
+| Cylindrique | <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Projection_cylindrique.jpg" alt="cylindrique" width="40%"/> | [Wikipedia](https://fr.wikipedia.org/wiki/Projection_cartographique) | Infographie par Traroth sous GFDL. 22/03/2005 |
+| Conique | <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Projection_conique.jpg" alt="conique" width="40%"/>| [Wikipedia](https://fr.wikipedia.org/wiki/Projection_cartographique) | Infographie par Traroth sous GFDL. 22/03/2005 |
+| Azimutale | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Projection_azimutale_stereographique.jpg" alt="azimutale" width="40%"> | [Wikipedia](https://fr.wikipedia.org/wiki/Projection_cartographique) | Infographie par Traroth sous GFDL. 26/03/2005 |
 
 > Il y a de nombreux systèmes de projection notamment car, avant l'arrivée du GPS, les mesures reposaient sur des principes et systèmes locaux. 
     
