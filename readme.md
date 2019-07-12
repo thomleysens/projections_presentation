@@ -2,9 +2,9 @@
 
 * [Avant-propos](#avant-propos)
 * [Késako ?](#kesako)
-* [Pourquoi c'est important ?](#pourquoi-c'est-important-?)
+* [Pourquoi c'est important ?](#pourquoi-c'est-important)
 * [Comment on reprojette](#comment-on-reprojette)
-* [Pour aller plus loin](#pour-aller-plus_loin) 
+* [Pour aller plus loin](#pour-aller-plus-loin) 
 
 ## Avant-propos
 
