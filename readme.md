@@ -20,7 +20,7 @@ La Terre est grossièrement une **sphère** aplatie aux pôles à cause de la ro
 ## Késako ?
 ### En bref
 
-Pour localiser des points, des lignes, des polygones dans l'espace terrestre (*nous parlons ici de l'espace en tant que surface/zone, il ne s'agit pas de s'attarder sur l'éventuelle présence de l'espace à **l'intérieur** de la Terre comme le suggère la "théorie" de la [Terre creuse](https://www.nationalgeographic.fr/sciences/la-terre-est-elle-creuse), restons un peu sérieux voulez-vous ! :-D *), il faut utiliser un [système géodésique](https://fr.wikipedia.org/wiki/Syst%C3%A8me_g%C3%A9od%C3%A9sique) et des coordonnées sous la forme de longitude et latitude (*souvent exprimées en degrés*) ou des coordonnées sur un plan (*coordonnées de projection*). 
+Pour localiser des points, des lignes, des polygones dans l'espace terrestre (*nous parlons ici de l'espace en tant que surface/zone, il ne s'agit pas de s'attarder sur l'éventuelle présence de l'espace à **l'intérieur** de la Terre comme le suggère la "théorie" de la [Terre creuse](https://www.nationalgeographic.fr/sciences/la-terre-est-elle-creuse), restons un peu sérieux voulez-vous ! :-D*), il faut utiliser un [système géodésique](https://fr.wikipedia.org/wiki/Syst%C3%A8me_g%C3%A9od%C3%A9sique) et des coordonnées sous la forme de longitude et latitude (*souvent exprimées en degrés*) ou des coordonnées sur un plan (*coordonnées de projection*). 
 
 Un système de projection implique donc une déformation, soit des surfaces, soit des formes. Petite démonstration avec [Cesium.js](https://cesiumjs.org/) avec [un site permettant de comparer la taille des continents](https://thetruesize.com/#) et avec ces [transitions animées avec D3.js](https://bl.ocks.org/mbostock/3711652). 
 
