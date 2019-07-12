@@ -2,7 +2,7 @@
 
 * [Avant-propos](#avant-propos)
 * [Késako ?](#kesako)
-* [Pourquoi c'est important ?](#pourquoi-cest-important)
+* [Pourquoi c'est important ?](#pourquoi-cest-important-)
 * [Comment on reprojette](#comment-on-reprojette)
 * [Pour aller plus loin](#pour-aller-plus-loin) 
 
