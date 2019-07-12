@@ -77,3 +77,4 @@ Pour reprojeter, tout dépend de vos préférences et compétences ainsi que de 
 * [Pour obtenir des boundinx box](http://tools.geofabrik.de/calc/#type=geofabrik_standard&bbox=5.538062,47.236312,15.371071,54.954937&tab=1&proj=EPSG:4326&places=2)
 * [QGIS, pour manipuler des objets spatiaux sans coder](https://www.qgis.org/en/site/)
 * [Un peu de fun](https://hi.stamen.com/an-ode-to-d3-js-projections-9d6477d6da0b)
+* ![La précision des coordonnées](https://imgs.xkcd.com/comics/coordinate_precision.png)
