@@ -26,9 +26,9 @@ Un système de projection implique donc une déformation, soit des surfaces, soi
 
 ### Les types de projection
 
-* projection équivalente: conserve localement les surfaces
-* projection conforme: conserve localement les formes (*les angles*)
-* projection aphylactique: ni conforme, ni équivalente, mais peut conserver les distances sur les méridiens. 
+* ***projection équivalente***: conserve localement les surfaces
+* ***projection conforme***: conserve localement les formes (*les angles*)
+* ***projection aphylactique***: ni conforme, ni équivalente, mais peut conserver les distances sur les méridiens. 
 
 ### La traduction mathématique/géométrique
 
