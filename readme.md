@@ -78,7 +78,8 @@ Pour reprojeter, tout dépend de vos préférences et compétences ainsi que de 
 * [QGIS, pour manipuler des objets spatiaux sans coder](https://www.qgis.org/en/site/)
 * [Un peu de fun](https://hi.stamen.com/an-ode-to-d3-js-projections-9d6477d6da0b)
 * La précision des coordonnées:
-    * <figure>
-        <img src="https://imgs.xkcd.com/comics/coordinate_precision.png" alt="triggered" width="50%"/>
-        <figcaption><center><i>Source: XKCD, https://imgs.xkcd.com/comics/coordinate_precision.png</i></center></figcaption>
-    </figure> 
+
+<figure>
+    <img src="https://imgs.xkcd.com/comics/coordinate_precision.png" alt="triggered" width="50%"/>
+    <figcaption><center><i>Source: XKCD, https://imgs.xkcd.com/comics/coordinate_precision.png</i></center></figcaption>
+</figure> 
